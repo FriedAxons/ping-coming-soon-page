@@ -28,10 +28,10 @@ h1 {
 }
 
 h3 {
-  margin-bottom: 30px;
-  color: hsl(0, 0%, 59%);
+  margin-bottom: 35px;
+  /* color: hsl(0, 0%, 59%); */
   font-weight: 200;
-  font-size: 17px;
+  font-size: 19.5px;
 }
 
 .email {
@@ -41,11 +41,16 @@ h3 {
   border-radius: 25px;
   font-family: inherit;
   border: 1px solid hsl(223, 100%, 88%);
+  text-indent: 11px;
 }
 
 .email::placeholder {
   text-indent: 10px;
   color: hsl(223, 100%, 88%);
+}
+
+.email:focus {
+  outline: none;
 }
 
 .email-btn {
@@ -58,10 +63,23 @@ h3 {
   color: white;
   background-color: hsl(223, 87%, 63%);
   box-shadow: 0 4px 10px rgba(79, 125, 243, 0.4);
+  cursor: pointer;
+}
+
+.email-btn:hover {
+  background-color: rgba(79, 125, 243, 0.8);
 }
 
 .illustration-img {
   height: 40%;
   width: 32%;
   margin-top: 80px;
+}
+
+footer {
+  position: absolute;
+  bottom: 20px;
+}
+
+@media screen and (max-width: 375px) {
 }
