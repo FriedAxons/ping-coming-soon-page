@@ -13,6 +13,8 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 ## Overview
 
+The goal of this project is to try to recreate the design for the webpage, including its interactive elements, as close to the original as possible (provided in the design folder). This challenge was provided by Frontend Mentor as a way to practice your skills and improve them. A screenshot of what the end result should look like is at the top of this file. In the screenshot section below you may find the authors own attempt at emulating the design. As both a desktop version as well as a mobile responsive version when the screen size is minimized.
+
 ### The challenge
 
 Users should be able to:
@@ -38,12 +40,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Live Site URL: [Github](https://your-live-site-url.com)
 
 ### Built with
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Github - [Bryan Suarez](https://www.github.com/FriedAxons)
+- Frontend Mentor - [@FriedAxons](https://www.frontendmentor.io/profile/FriedAxons)
