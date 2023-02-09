@@ -33,6 +33,10 @@ h3 {
   font-size: 19.5px;
 }
 
+.input-wrapper {
+  display: flex;
+}
+
 .email {
   width: 20vw;
   margin-right: 8px;
@@ -59,7 +63,7 @@ h3 {
 .email-btn {
   font-size: 15px;
   width: 9vw;
-  padding: 15px;
+  height: 9vh;
   border-radius: 25px;
   font-family: inherit;
   border: none;
@@ -75,12 +79,12 @@ h3 {
 
 .error-message {
   display: block;
-  font-size: 14px;
+  margin-left: 14px;
+  font-size: 12px;
   padding: 10px;
   font-style: italic;
   color: hsl(354, 100%, 66%);
   /* display: none; */
-  width: 29%;
 }
 
 .error-message.active {
@@ -122,10 +126,24 @@ footer {
   .email {
     width: 67vw;
     margin-bottom: 12px;
+    margin: 0;
   }
 
   .email-btn {
-    width: 75vw;
+    width: 74vw;
+    margin-top: 15px;
+  }
+
+  .error-message {
+    position: relative;
+    width: 100%;
+    font-size: 12px;
+    text-indent: 66px;
+    /* display: none; */
+  }
+
+  .error-message.active {
+    display: block;
   }
 
   .illustration-img {
