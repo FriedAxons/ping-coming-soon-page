@@ -76,11 +76,11 @@ h3 {
 .error-message {
   display: block;
   font-size: 14px;
-  margin-left: 15px;
   padding: 10px;
   font-style: italic;
   color: hsl(354, 100%, 66%);
-  display: none;
+  /* display: none; */
+  width: 29%;
 }
 
 .error-message.active {
@@ -90,7 +90,7 @@ h3 {
 .illustration-img {
   height: 40%;
   width: 32%;
-  margin-top: 80px;
+  margin-top: 70px;
 }
 
 footer {
@@ -99,7 +99,7 @@ footer {
   color: hsl(0, 0%, 59%);
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 550px) {
   .logo-img {
     width: 13%;
   }
@@ -125,11 +125,15 @@ footer {
   }
 
   .email-btn {
-    width: 74vw;
+    width: 75vw;
   }
 
   .illustration-img {
-    width: 82vw;
+    width: 85vw;
     height: 25vh;
+  }
+
+  footer {
+    font-size: 14px;
   }
 }
