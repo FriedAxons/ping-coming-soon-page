@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-html-css-js-ppJIkjfS0P)
+- Live Site URL: [Github](https://friedaxons.github.io/ping-coming-soon-page/)
 
 ### Built with
 
