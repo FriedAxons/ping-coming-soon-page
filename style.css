@@ -84,7 +84,7 @@ h3 {
   padding: 10px;
   font-style: italic;
   color: hsl(354, 100%, 66%);
-  /* display: none; */
+  display: none;
 }
 
 .error-message.active {
