@@ -63,7 +63,7 @@ h3 {
 .email-btn {
   font-size: 15px;
   width: 9vw;
-  height: 9vh;
+  height: 5vh;
   border-radius: 25px;
   font-family: inherit;
   border: none;
@@ -138,12 +138,8 @@ footer {
     position: relative;
     width: 100%;
     font-size: 12px;
-    text-indent: 66px;
-    /* display: none; */
-  }
-
-  .error-message.active {
-    display: block;
+    text-indent: 45px;
+    display: none;
   }
 
   .illustration-img {
