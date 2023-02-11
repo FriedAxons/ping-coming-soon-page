@@ -28,10 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Completed Desktop Version](./screenshot.jpg)
-![Completed Desktop Error State]()
-![Completed Mobile Version]()
-![Completed Mobile Version Error State]()
+![Completed Desktop Version](images/Screenshots/completed-desktop-version.jpg)
+![Completed Desktop Version Error State](images/Screenshots/completed-desktop-version-error-state.jpg)
+![Completed Mobile Version](images/Screenshots/completed-mobile-version.jpg)
+![Completed Mobile Version Error State](images/Screenshots/completed-mobile-version-error-state.jpg)
 
 ### Links
 
