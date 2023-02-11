@@ -31,7 +31,6 @@ Users should be able to:
 ![Completed Desktop Version](images/Screenshots/completed-desktop-version.jpg)
 ![Completed Desktop Version Error State](images/Screenshots/completed-desktop-version-error-state.jpg)
 ![Completed Mobile Version](images/Screenshots/completed-mobile-version.jpg)
-![Completed Mobile Version Error State](images/Screenshots/completed-mobile-version-error-state.jpg)
 
 ### Links
 
